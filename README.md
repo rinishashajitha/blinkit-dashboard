@@ -19,3 +19,4 @@ CMO: Analyze customer preferences, product demand, and regional trends.
 Sales Team: Discover opportunities for expansion and target top customers.  
 
 🚀 Screenshots
+https://github.com/rinishashajitha/blinkit-dashboard/blob/main/Snapshot%20of%20the%20dashboard.jpeg
